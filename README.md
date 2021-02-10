@@ -1,0 +1,2 @@
+# 2017 Lung Seg Challenge
+ CONTOUR DATA FOR ORGAN SEG
